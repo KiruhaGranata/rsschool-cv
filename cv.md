@@ -24,3 +24,14 @@ public class CustomMath {
     }
 }
 ```
+# Education
+
+Belarusian Rusian University (now)
+
+Streamline English Courses Pre-Intermediate (A2+)
+
+# Languages
+
+English(A2+)
+
+Russian (native)
