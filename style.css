@@ -21,4 +21,6 @@
 .main
 {
 border: black solid 1px;
+max-width: 1024px;
+margin: auto;
 }
