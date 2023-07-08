@@ -1,0 +1,24 @@
+.body
+{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #e3dfd3;
+}
+
+.upblock
+{
+    background-color: #6e6969;
+    display: flex;
+    color: white;
+}
+
+.downblock
+{
+    background-color: white;
+    display: flex;
+    color: black;
+}
+
+.main
+{
+border: black solid 1px;
+}
