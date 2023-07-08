@@ -7,6 +7,23 @@
     margin: 0 auto;
     padding: 2rem;
 }
+.footer-nav-list {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer-nav-list li a i.fab {
+    color: black;
+    font-size: 40px;
+}
+.header
+{
+    padding: 1rem;
+}
 
 .leftblock
 {
