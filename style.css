@@ -2,20 +2,30 @@
 {
     font-family: 'Open Sans', sans-serif;
     background-color: #e3dfd3;
+    max-width: 1024px;
+    min-width: 600px;
+    margin: 0 auto;
+    padding: 2rem;
 }
 
-.upblock
+.leftblock
 {
     background-color: #6e6969;
+    padding: 1rem;
+    width: 35%;
+    color: #6a5c5c;
     display: flex;
-    color: white;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
 }
 
-.downblock
+.rightblock
 {
+    padding: 1rem;
+    width: 75%;
+    color: #4d4d4d;
     background-color: white;
-    display: flex;
-    color: black;
 }
 
 .main
